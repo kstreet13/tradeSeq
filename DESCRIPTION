@@ -54,7 +54,6 @@ Imports:
     S4Vectors,
     tibble,
     dplyr,
-    monocle,
     igraph,
     clusterExperiment
 Suggests:
@@ -63,7 +62,8 @@ Suggests:
     cowplot,
     tidyr,
     testthat,
-    covr
+    covr,
+    monocle
 VignetteBuilder: knitr
 biocViews:
     Clustering,
